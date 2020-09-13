@@ -1,0 +1,25 @@
+{
+  "name": "dice-game-solc",
+  "version": "1.0.0",
+  "description": "Dice game on solc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackTanRoo/dice-game-solc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackTanRoo/dice-game-solc/issues"
+  },
+  "homepage": "https://github.com/JackTanRoo/dice-game-solc#readme",
+  "dependencies": {
+    "ganache-cli": "^6.10.2",
+    "http-server": "^0.12.3",
+    "web3": "^1.2.11"
+  }
+}
